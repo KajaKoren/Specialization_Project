@@ -1,0 +1,6 @@
+[submodule "nnUNet"]
+	path = nnUNet
+	url = git@github.com:Semikaja/nnUNet.git
+[submodule "kits21"]
+	path = kits21
+	url = git@github.com:Semikaja/kits21.git
